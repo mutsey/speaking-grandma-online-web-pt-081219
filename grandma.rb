@@ -1,7 +1,6 @@
 if greeting = "good morning grandma".downcase
 #=> "good morning grandma" 
-# puts
-# HUH?! SPEAK UP, SONNY!
+# puts "HUH?! SPEAK UP, SONNY!"
 # unless you shout it (GOOD MORNING GRANDMA).
 
 # If you shout, she can hear you (or at least she thinks so) 

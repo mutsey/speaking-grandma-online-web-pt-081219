@@ -1,8 +1,8 @@
-# Write a speak_to_grandma method.
+# good morning grandma.
 
 # Whatever you say to grandma, she should respond with
 # HUH?! SPEAK UP, SONNY!
-# unless you shout it (type in all capitals).
+# unless you shout it (GOOD MORNING GRANDMA).
 
 # If you shout, she can hear you (or at least she thinks so) 
 # and yells back

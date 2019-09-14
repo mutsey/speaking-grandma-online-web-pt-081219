@@ -1,13 +1,9 @@
 if greeting == "good morning grandma".downcase
 #=> "good morning grandma" 
 puts "HUH?! SPEAK UP, SONNY"
-else
-# unless you shout it (GOOD MORNING GRANDMA).
+elseif greeting =="GOOD MORNING GRANDMA".upcase 
 
-# If you shout, she can hear you (or at least she thinks so) 
-# and yells back
-
-# NO, NOT SINCE 1938!
+#puts "NO, NOT SINCE 1938!""
 
 # However if you say 'I LOVE YOU GRANDMA!', she should respond with
 # 'I LOVE YOU TOO PUMPKIN!'

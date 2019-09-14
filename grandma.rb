@@ -1,4 +1,4 @@
-if "good morning grandma".downcase
+if greeting = "good morning grandma".downcase
 #=> "good morning grandma" 
 # Whatever you say to grandma, she should respond with
 # HUH?! SPEAK UP, SONNY!

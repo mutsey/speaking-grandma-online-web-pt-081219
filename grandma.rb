@@ -1,5 +1,5 @@
-# good morning grandma.
-
+"good morning grandma".downcase
+#=> "good morning grandma" 
 # Whatever you say to grandma, she should respond with
 # HUH?! SPEAK UP, SONNY!
 # unless you shout it (GOOD MORNING GRANDMA).

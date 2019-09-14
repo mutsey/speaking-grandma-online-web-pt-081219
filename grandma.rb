@@ -4,5 +4,5 @@ puts "HUH?! SPEAK UP, SONNY"
 elseif greeting =="GOOD MORNING GRANDMA".upcase 
 puts "NO, NOT SINCE 1938!""
 
-# However if you say 'I LOVE YOU GRANDMA!', she should respond with
-# 'I LOVE YOU TOO PUMPKIN!'
+else greeting == "I LOVE YOU GRANDMA!".upcase
+puts "I LOVE YOU TOO PUMPKIN!".upcase

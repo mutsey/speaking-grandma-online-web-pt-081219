@@ -1,6 +1,6 @@
 if greeting = "good morning grandma".downcase
 #=> "good morning grandma" 
-# Whatever you say to grandma, she should respond with
+# puts
 # HUH?! SPEAK UP, SONNY!
 # unless you shout it (GOOD MORNING GRANDMA).
 
